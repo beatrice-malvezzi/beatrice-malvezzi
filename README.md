@@ -17,8 +17,6 @@ Master's thesis investigating the co-evolution of social networks and individual
 improving a model based on *Log-Skew Quantile Regression* to estimate salary curves, within my work in HR consulting.
 I also work on compensation and labour-market data, including salary benchmarking, adjusted Gender Pay Gap analysis, and labour-market studies using large datasets (ISTAT, EUROSTAT, OECD).
 
-[TO COMPLETE]
-
 ### What I am curious about
 My interests are broad and not tied to a single industry. Right now I'm particularly curious about applications of quantitative methods in economics, banking, finance and AI. I enjoy learning new methods and understanding the reasoning behind the models I use.
 
