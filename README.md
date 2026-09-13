@@ -5,11 +5,13 @@ I am interested in **data science**, AI, statistical modelling, neural networks 
 ### Some selected projects
 - 🏠 **Milan Housing Price Prediction**: prediction of residential property prices in Milan using statistical learning and machine learning techniques, with a strong focus on missing-data imputation, feature engineering, spatial information, and model comparison. 🥉 3rd place out of 55 in a private Kaggle competition
 - 🗺️ **California Housing Price Prediction**: a Bayesian and spatial modelling of California housing prices, including hierarchical models, BART, MCMC, Stan and Kriging
-- ✈️ **Airline Passenger Satisfaction**: a machine learning project investigating whether passenger survey data can effectively identify customer satisfaction, combining PCA, clustering, DBSCAN, and supervised classification.
+- ✈️ **Airline Passenger Satisfaction**: a machine learning project investigating whether passenger survey data can effectively identify customer satisfaction, combining PCA, clustering, DBSCAN, and supervised classification
 - 🎵 **Reducing Overfitting through Convolutional Neural Networks**: an individual study on overfitting and generalisation in deep neural networks, using music genre classification from mel spectrograms as a case study
 - 🏦 **Early Warning System for European Banking Vulnerabilities**: an end-to-end analytical pipeline in Python using EBA supervisory data to identify European banks at risk of capital deterioration
 
 ### Master's Thesis
+🎓 **Stochastic Actor-Oriented Models: A Comparison between the Method of Moments and the Generalized Method of Moments Estimation**
+Master's thesis investigating the co-evolution of social networks and individual behaviours through Stochastic Actor-Oriented Models (SAOMs), with a focus on comparing Method of Moments (MoM) and Generalized Method of Moments (GMoM) estimation through a large-scale simulation study.
 
 ### I am currently working on
 improving a model based on *Log-Skew Quantile Regression* to estimate salary curves, within my work in HR consulting.
